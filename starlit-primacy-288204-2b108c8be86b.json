@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "starlit-primacy-288204",
+  "private_key_id": "2b108c8be86bd546d531caa06a3b19371f675250",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCtMJmv66N4Bevv\n7q9GWRH4hiu+IViryMdWBOd9t4q45Shvcj2MkiY9GqDPxwAqI4kDMMxZLFvkisUs\nxplfq9qbMU15waDknqBZd4eV6XCTCJ3z31pUFZWb3Ed4r8SR3sXni3Ilqz18mLi0\nBqqDD7afODRqC6/SPfsnFXB7HJwmav0gCNunCQ4IiCuICbANv5ZyqQqGuqZ8GJik\n+bfwLuqWreDg3tXbyCfYW1YPqg9mrxxitYgeC6+JuaAEL3Ttut7LaIfFs2NhuTn5\n4NKkxv7ecsAhfoM0P8hNiZiNi6yfsYpQboxvpJB2bmozvFDNTKtVUifpBsIMVz7f\nKc10w+i1AgMBAAECggEAPu0dqjGv33gnVbIftSu/v9DgK+Dp2uDErJhzk9YQbUW1\n/2g+vMiNZD48l8HyaV0n9yTP2sanTM6u/anbKEvEzgaH4+lakDaihF9NwEZlRMco\nvOc2Zr7A8TSEM3GJtoZ+2bZs7wrc+Fx1H9QcOCqJbCh7wtwkMfubOYQsrk6i3cIA\n1v95tg1oReYsUs/pEPz6EwTGfnfT+XlkDSfW0VxpGdeaj9LfRbp/u0NG3t5Z6AoW\nAX9mt48g9HyPXhHn+7M9vjqcSHLnizYKGa//b6TiXmevVl3b6W7qr1yGN+PLXrzP\nVdsbUt6x5mcdT6t8asYDamqW2iQ0it7OwqnG/fCqMQKBgQDVu10Uxup2ISZqe/8B\nVcBaFd7K7qA625POFzlkWK09AJAsGH8BLgwHaRr9qF2+Bw/Se140DpmHIV94sI8B\nEtbnqLHUsX14CpV7/GFR8fzLji3T+/DHx9zBAw6vV8IRcuqiNBXNTBkZwx26jV5o\ncaA7EEMTrhEDQM/VB0dHkYUuEwKBgQDPcLVm6w1H7LsicH7WGa3XFtXt2kK7QWxZ\nTE0TzgAU/FPt5cX5T6rH1A/xhBjrmfpkI+sACukkoKCjUhCgbrOzLJnGLsCmFPux\nF5Qh4STqjylLoq5Y6PAJKJoSUSi858whfeU5+opsXihEEW/h1xxPaRMFjum37KYO\ns/ib6JTHFwKBgQDGasdx52x4uDO6vVwyOBJ3T0Bisn8rxPcFZ4gPQUeqjyBI34Dg\nbogaRRgajjhglpu4snD08OzUh0XjfD12KLA7pd9ZbmDllSXLUbRjZ7xgmKCw4H5a\naY/l21nBrD3tBvsOFD59NX1D7mBl9KHFYl73FhS/a2Q92ehXgwdISK8T4wKBgQDB\nf1T255K/4Ka+fUkS1Wk/FWIAOHO+0EwNEAtlyeZxrN1tL8P3xsR7Gei1VI8aVcsm\n1gpDQ+ot7FdrgQVZYWnmXFgkcT/qq/ALRP88ixMwaNIQZ3NSJBajtGfjZikl7OKQ\n6yqDZpzwcPQGam1+sHUL7et8Z87Dbc+IL4BbjhwZiQKBgQCTQwZ5iCzYv5XTrO4a\nKVrdyIH7GcrYpric9c35/Z2zJZCpaUxEhgHS/IhBb3VO4hQa7YyiFQBt3dlJhh/5\np/2ZyvbboPekTxpmOuIfo8ZHOq6Yjs8ev4s2Kwc5OnvhWH8TJ6eAHu44OVzTF0eP\nl3J1Vqenp5GU2jFFviTj04xPQQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "grist-824@starlit-primacy-288204.iam.gserviceaccount.com",
+  "client_id": "116805463143639404589",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/grist-824%40starlit-primacy-288204.iam.gserviceaccount.com"
+}
